@@ -157,4 +157,164 @@ Hasil:
 Website hasil praktikum telah berhasil dibuat menggunakan HTML dasar dan dapat dijalankan melalui GitHub Pages.
 Link Website:
 
+# Jawaban Pertanyaan
+
+
+## 1. Apa fungsi deklarasi `<!DOCTYPE html>` pada dokumen HTML?
+
+`<!DOCTYPE html>` berfungsi untuk memberi tahu browser bahwa dokumen menggunakan standar HTML5 sehingga halaman dapat ditampilkan sesuai aturan HTML yang benar.
+
+
+---
+
+## 2. Apa perbedaan antara tag, elemen, dan atribut pada HTML?
+
+**Tag** adalah penanda dalam HTML.
+
+Contoh:
+
+```html
+<p>
+```
+
+
+**Elemen** adalah keseluruhan bagian HTML yang terdiri dari tag pembuka, isi, dan tag penutup.
+
+Contoh:
+
+```html
+<p>Paragraf</p>
+```
+
+
+**Atribut** adalah informasi tambahan pada sebuah tag.
+
+Contoh:
+
+```html
+<img src="gambar.jpg">
+```
+
+
+---
+
+## 3. Apa perbedaan `<p>` dengan `<br>`?
+
+`<p>` digunakan untuk membuat paragraf baru.
+
+Contoh:
+
+```html
+<p>Ini paragraf</p>
+```
+
+
+Sedangkan `<br>` digunakan untuk membuat perpindahan baris.
+
+Contoh:
+
+```html
+Halo<br>
+Nama Saya
+```
+
+
+---
+
+## 4. Apa fungsi atribut href pada tag `<a>`?
+
+Atribut `href` digunakan untuk menentukan alamat tujuan hyperlink.
+
+Contoh:
+
+```html
+<a href="halaman2.html">Halaman 2</a>
+```
+
+
+---
+
+## 5. Apa perbedaan hyperlink internal dengan eksternal?
+
+Hyperlink internal mengarah ke halaman dalam website yang sama.
+
+Contoh:
+
+```html
+<a href="halaman2.html">
+```
+
+
+Hyperlink eksternal mengarah ke website lain.
+
+Contoh:
+
+```html
+<a href="https://google.com">
+```
+
+
+---
+
+## 6. Apa fungsi atribut src dan alt pada tag `<img>`?
+
+`src` berfungsi menentukan lokasi file gambar.
+
+`alt` berfungsi memberikan deskripsi gambar jika gambar tidak dapat ditampilkan.
+
+
+Contoh:
+
+```html
+<img src="images/profil.jpg" alt="Foto">
+```
+
+
+---
+
+## 7. Apa perbedaan penggunaan `<ul>` dan `<ol>`?
+
+`<ul>` digunakan untuk daftar tanpa urutan.
+
+`<ol>` digunakan untuk daftar yang memiliki urutan.
+
+
+---
+
+## 8. Apa yang terjadi jika path gambar pada atribut src salah?
+
+Jika path gambar salah, browser tidak dapat menemukan file sehingga gambar tidak akan tampil.
+
+Browser dapat menampilkan ikon gambar rusak atau teks alternatif dari atribut `alt`.
+
+
+---
+
+## 9. Mengapa struktur heading h1 sampai h6 perlu digunakan secara terstruktur?
+
+Heading digunakan untuk membuat hierarki informasi pada halaman web.
+
+`<h1>` digunakan sebagai judul utama, sedangkan `<h2>` sampai `<h6>` digunakan sebagai bagian yang lebih kecil.
+
+
+---
+
+## 10. Apa fungsi komentar `<!-- ... -->` dalam kode HTML?
+
+Komentar digunakan untuk memberikan catatan pada kode HTML yang tidak ditampilkan pada browser.
+
+Contoh:
+
+```html
+<!-- Bagian Profil -->
+```
+
+
+---
+
+# Kesimpulan
+
+Pada praktikum HTML Dasar ini telah dipelajari struktur dasar HTML, penggunaan tag dan atribut, pembuatan heading, paragraf, gambar, hyperlink, list, dan komentar.
+
+Dengan praktikum ini mahasiswa dapat memahami dasar pembuatan halaman web menggunakan HTML sebelum mempelajari teknologi lanjutan seperti CSS dan JavaScript.
 
