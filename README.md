@@ -47,5 +47,18 @@ Kemudian dibuat struktur utama HTML yang terdiri dari:
 - `<body>`
 Hasil:
 ![Struktur HTML](secreenshot%20struktur%20html.png)
+---
+## 2. Membuat Heading dan Paraghraf
+Heading digunakan untuk membuat judul dan subjudul pada halaman web.
+Tag yang digunakan:
+```html
+<h1>
+<h2>
+```
+Sedangkan paraghraf dibuat menggunakan:
+```html
+<p>
+```
+Hasil:
 
 
