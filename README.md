@@ -46,6 +46,6 @@ Kemudian dibuat struktur utama HTML yang terdiri dari:
 - `<title>`
 - `<body>`
 Hasil:
-![Struktur HTML](screenshot/struktur dasar html.png)
+![Struktur HTML](screenshot/struktur-dasar-html.png)
 
 
