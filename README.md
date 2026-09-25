@@ -156,7 +156,7 @@ Hasil:
 # Hasil Website
 Website hasil praktikum telah berhasil dibuat menggunakan HTML dasar dan dapat dijalankan melalui GitHub Pages.
 Link Website:
-
+https://github.com/alfiiftihalnurul-dot/Lab1Web
 # Jawaban Pertanyaan
 
 
