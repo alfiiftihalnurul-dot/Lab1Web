@@ -79,5 +79,82 @@ Belajar <b>HTML Dasar</b>
 Hasil:
 ![Formatting Text](secreenshoots/format-text.png.png)
 
+---
+## 4. Menambahkan gambar
+Gambar ditaambahkan menggunakan tag:
+```html
+<img>
+```
+dengan atribut:
+- `src` untuk lokasi gambar
+- `alt` untuk deskripsi gambar
+contoh:
+```html
+<img src="images/profil.jpg" alt="Foto Profil">
+```
+Hasil:
+![Gambar HTML](secreenshoots/gambar.png.png)
+
+---
+## 5. Membuat Hyperlink
+Hyperlink digunakan untuk menghubungkan halaman web.
+Pada praktikum ini dibuat:
+### Hyperlink Internal 
+Menghubungkan halaman `index.html` dengan `halaman2.html`.
+contoh:
+```html
+<a href="halaman2.html">
+Halaman 2
+</a>
+```
+### Hyperlink Eksternal
+Menghubungkan ke website lain.
+Contoh:
+```html
+<a href="https://www.google.com">
+Google
+</a>
+```
+Hasil:
+![Hyperlink](secreenshoots/hyperlink.png.png)
+
+---
+## 6. Membuat List HTML
+Terdapat dua jenis list yang digunakan:
+### Unordered List
+List menggunakan tanda bullet.
+```html
+<ul>
+<li>HTML</li>
+<li>CSS</li>
+</ul>
+```
+### Ordered List
+List menggunakan urutan angka.
+```html
+<ol>
+<li>Belajar HTML</li>
+<li>Membuat Website</li>
+</ol>
+```
+Hasil:
+
+![List HTML](secreenshoots/list.png.png)
+
+---
+## 7. Membuat Komentar HTML
+Komentar digunakan untuk memberikan catatan pada kode HTML.
+Komentar ditulis menggunakan:
+```html
+<!-- komentar -->
+```
+Komentar tidak akan tampil pada halaman browser.
+Hasil:
+![Komentar HTML](secreenshoots/komentar.png.png)
+
+---
+# Hasil Website
+Website hasil praktikum telah berhasil dibuat menggunakan HTML dasar dan dapat dijalankan melalui GitHub Pages.
+Link Website:
 
 
