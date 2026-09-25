@@ -62,5 +62,22 @@ Sedangkan paraghraf dibuat menggunakan:
 Hasil:
 ![Heading dan Paragraf](./secreenshoots/paraghraf.png.png)
 
+---
+## 3. Formatting Text
+Pada tahap ini dilakukan performatan teks menggunakan beberapa tag HTML seperti:
+```html
+<b>
+<i>
+<strong>
+```
+Contoh penggunaan:
+```html
+<p>
+Belajar <b>HTML Dasar</b>
+</p>
+```
+Hasil:
+![Formatting Text](secreenshoots/format-text.png.png)
+
 
 
