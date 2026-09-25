@@ -60,7 +60,7 @@ Sedangkan paraghraf dibuat menggunakan:
 <p>
 ```
 Hasil:
-![Heading dan Paragraf](screenshots/paragraf.png)
+![Heading dan Paragraf](screenshots/paraghraf.png)
 
 
 
